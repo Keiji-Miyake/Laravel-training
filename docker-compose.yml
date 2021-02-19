@@ -1,0 +1,69 @@
+version: "3.0"
+
+volumes:
+  mysql-store:
+    driver: local
+
+services:
+  web:
+    build: ./web/
+    depends_on:
+      - db
+      - minio
+    volumes:
+      - ./web/apache-conf:/etc/apache2/sites-available
+      - ./web/php.ini:/usr/local/etc/php/php.ini
+      - ../MyLibrary:/var/www
+    working_dir: /var/www
+    ports:
+      - 10080:80
+
+  node:
+    image: node
+    working_dir: /var/www
+    command: npm run watch
+    volumes:
+      - ../MyLibrary:/var/www
+
+  db:
+    image: mysql:5.7
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: first_db
+      MYSQL_USER: user
+      MYSQL_PASSWORD: user
+      TZ: 'Asia/Tokyo'
+    command: mysqld --character-set-server=utf8mb4 --collation-server=utf8mb4_unicode_ci
+    ports:
+      - 13306:3306
+    volumes:
+      - mysql-store:/var/lib/mysql
+      - ./db/sql:/docker-entrypoint-initdb.d
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    depends_on:
+      - db
+    ports:
+      - 10081:80
+    environment:
+      PMA_ARBITRARY: 1
+      PMA_HOST: db
+      PMA_USER: root
+      PMA_PASSWORD: root
+
+  maildev:
+    image: djfarrelly/maildev
+    ports:
+      - 10082:80
+
+  minio:
+      image: minio/minio
+      ports:
+        - 10085:9000
+      volumes:
+        - ../MyLibrary/storage/files:/export
+      environment:
+        MINIO_ACCESS_KEY: AKIAIOSFODNN7EXAMPLE
+        MINIO_SECRET_KEY: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+      command: server /export
