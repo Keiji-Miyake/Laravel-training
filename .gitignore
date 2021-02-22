@@ -1,2 +1,9 @@
 .DS_Store
 Thumbs.db
+/src/*
+node_modules/
+/db/logs/*
+/code/*
+/web/logs/*
+
+!.gitkeep
