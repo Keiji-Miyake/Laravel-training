@@ -16,7 +16,7 @@ services:
     depends_on:
       - php
     volumes:
-      - ./src:/var/www/html
+      - ../src:/var/www/html
       - ./web/logs:/var/log/httpd
       - cert:/etc/ssl/private
     restart: always
@@ -31,7 +31,7 @@ services:
     ports:
       - 9000
     volumes:
-      - ./src:/var/www/html
+      - ../src:/var/www/html
     restart: always
     user: ${UID}:${GID}
 
@@ -67,7 +67,7 @@ services:
     depends_on:
       - web
     volumes:
-      - ./src:/var/www/html
+      - ../src:/var/www/html
     restart: always
     user: ${UID}:${GID}
     working_dir: /var/www/html/
