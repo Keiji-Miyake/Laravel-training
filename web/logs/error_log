@@ -1,0 +1,198 @@
+[Mon Feb 22 00:26:26.485431 2021] [ssl:warn] [pid 1:tid 1] AH01909: lvh.me:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 22 00:26:26.485832 2021] [suexec:notice] [pid 1:tid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.7. Set the 'ServerName' directive globally to suppress this message
+[Mon Feb 22 00:26:26.499110 2021] [ssl:warn] [pid 1:tid 1] AH01909: lvh.me:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 22 00:26:26.499512 2021] [lbmethod_heartbeat:notice] [pid 1:tid 1] AH02282: No slotmem from mod_heartmonitor
+[Mon Feb 22 00:26:26.500905 2021] [mpm_event:notice] [pid 1:tid 1] AH00489: Apache/2.4.46 (IUS) OpenSSL/1.0.2k-fips configured -- resuming normal operations
+[Mon Feb 22 00:26:26.500939 2021] [core:notice] [pid 1:tid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Mon Feb 22 22:26:38.554592 2021] [mpm_event:notice] [pid 1:tid 1] AH00491: caught SIGTERM, shutting down
+[Mon Feb 22 22:29:05.499375 2021] [ssl:warn] [pid 1:tid 1] AH01909: lvh.me:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 22 22:29:05.500983 2021] [suexec:notice] [pid 1:tid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.19.0.7. Set the 'ServerName' directive globally to suppress this message
+[Mon Feb 22 22:29:05.526649 2021] [ssl:warn] [pid 1:tid 1] AH01909: lvh.me:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 22 22:29:05.528074 2021] [lbmethod_heartbeat:notice] [pid 1:tid 1] AH02282: No slotmem from mod_heartmonitor
+[Mon Feb 22 22:29:05.531508 2021] [mpm_event:notice] [pid 1:tid 1] AH00489: Apache/2.4.46 (IUS) OpenSSL/1.0.2k-fips configured -- resuming normal operations
+[Mon Feb 22 22:29:05.531687 2021] [core:notice] [pid 1:tid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Tue Feb 23 10:12:23.689279 2021] [mpm_event:notice] [pid 1:tid 1] AH00491: caught SIGTERM, shutting down
+[Tue Feb 23 11:19:01.459181 2021] [ssl:warn] [pid 1:tid 1] AH01909: lvh.me:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 23 11:19:01.459603 2021] [suexec:notice] [pid 1:tid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.19.0.8. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 23 11:19:01.471658 2021] [ssl:warn] [pid 1:tid 1] AH01909: lvh.me:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 23 11:19:01.472089 2021] [lbmethod_heartbeat:notice] [pid 1:tid 1] AH02282: No slotmem from mod_heartmonitor
+[Tue Feb 23 11:19:01.473696 2021] [mpm_event:notice] [pid 1:tid 1] AH00489: Apache/2.4.46 (IUS) OpenSSL/1.0.2k-fips configured -- resuming normal operations
+[Tue Feb 23 11:19:01.473729 2021] [core:notice] [pid 1:tid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Tue Feb 23 11:30:23.125891 2021] [mpm_event:notice] [pid 1:tid 1] AH00491: caught SIGTERM, shutting down
+[Tue Feb 23 11:31:01.496945 2021] [ssl:warn] [pid 1:tid 1] AH01909: lvh.me:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 23 11:31:01.497382 2021] [suexec:notice] [pid 1:tid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.20.0.8. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 23 11:31:01.509470 2021] [ssl:warn] [pid 1:tid 1] AH01909: lvh.me:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 23 11:31:01.509919 2021] [lbmethod_heartbeat:notice] [pid 1:tid 1] AH02282: No slotmem from mod_heartmonitor
+[Tue Feb 23 11:31:01.511461 2021] [mpm_event:notice] [pid 1:tid 1] AH00489: Apache/2.4.46 (IUS) OpenSSL/1.0.2k-fips configured -- resuming normal operations
+[Tue Feb 23 11:31:01.511504 2021] [core:notice] [pid 1:tid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Tue Feb 23 11:40:19.453445 2021] [mpm_event:notice] [pid 1:tid 1] AH00491: caught SIGTERM, shutting down
+[Tue Feb 23 11:40:31.603527 2021] [ssl:warn] [pid 1:tid 1] AH01909: lvh.me:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 23 11:40:31.603930 2021] [suexec:notice] [pid 1:tid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.21.0.8. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 23 11:40:31.616185 2021] [ssl:warn] [pid 1:tid 1] AH01909: lvh.me:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 23 11:40:31.616599 2021] [lbmethod_heartbeat:notice] [pid 1:tid 1] AH02282: No slotmem from mod_heartmonitor
+[Tue Feb 23 11:40:31.618031 2021] [mpm_event:notice] [pid 1:tid 1] AH00489: Apache/2.4.46 (IUS) OpenSSL/1.0.2k-fips configured -- resuming normal operations
+[Tue Feb 23 11:40:31.618082 2021] [core:notice] [pid 1:tid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Tue Feb 23 12:46:29.735898 2021] [mpm_event:notice] [pid 1:tid 1] AH00491: caught SIGTERM, shutting down
+[Tue Feb 23 12:50:49.249558 2021] [ssl:warn] [pid 1:tid 1] AH01909: lvh.me:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 23 12:50:49.250299 2021] [suexec:notice] [pid 1:tid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.22.0.8. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 23 12:50:49.272706 2021] [ssl:warn] [pid 1:tid 1] AH01909: lvh.me:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 23 12:50:49.274009 2021] [lbmethod_heartbeat:notice] [pid 1:tid 1] AH02282: No slotmem from mod_heartmonitor
+[Tue Feb 23 12:50:49.276549 2021] [mpm_event:notice] [pid 1:tid 1] AH00489: Apache/2.4.46 (IUS) OpenSSL/1.0.2k-fips configured -- resuming normal operations
+[Tue Feb 23 12:50:49.276618 2021] [core:notice] [pid 1:tid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Tue Feb 23 12:51:13.739251 2021] [mpm_event:notice] [pid 1:tid 1] AH00491: caught SIGTERM, shutting down
+[Tue Feb 23 12:52:45.216026 2021] [ssl:warn] [pid 1:tid 1] AH01909: lvh.me:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 23 12:52:45.216941 2021] [suexec:notice] [pid 1:tid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.23.0.8. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 23 12:52:45.239413 2021] [ssl:warn] [pid 1:tid 1] AH01909: lvh.me:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 23 12:52:45.240418 2021] [lbmethod_heartbeat:notice] [pid 1:tid 1] AH02282: No slotmem from mod_heartmonitor
+[Tue Feb 23 12:52:45.242745 2021] [mpm_event:notice] [pid 1:tid 1] AH00489: Apache/2.4.46 (IUS) OpenSSL/1.0.2k-fips configured -- resuming normal operations
+[Tue Feb 23 12:52:45.242769 2021] [core:notice] [pid 1:tid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Tue Feb 23 12:56:21.556667 2021] [mpm_event:notice] [pid 1:tid 1] AH00491: caught SIGTERM, shutting down
+[Tue Feb 23 12:56:37.480158 2021] [ssl:warn] [pid 1:tid 1] AH01909: lvh.me:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 23 12:56:37.480950 2021] [suexec:notice] [pid 1:tid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.24.0.8. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 23 12:56:37.502880 2021] [ssl:warn] [pid 1:tid 1] AH01909: lvh.me:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 23 12:56:37.503797 2021] [lbmethod_heartbeat:notice] [pid 1:tid 1] AH02282: No slotmem from mod_heartmonitor
+[Tue Feb 23 12:56:37.506379 2021] [mpm_event:notice] [pid 1:tid 1] AH00489: Apache/2.4.46 (IUS) OpenSSL/1.0.2k-fips configured -- resuming normal operations
+[Tue Feb 23 12:56:37.506414 2021] [core:notice] [pid 1:tid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Tue Feb 23 13:11:44.128048 2021] [mpm_event:notice] [pid 1:tid 1] AH00491: caught SIGTERM, shutting down
+[Tue Feb 23 13:12:37.993131 2021] [ssl:warn] [pid 1:tid 1] AH01909: lvh.me:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 23 13:12:37.994649 2021] [suexec:notice] [pid 1:tid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.25.0.4. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 23 13:12:38.019971 2021] [ssl:warn] [pid 1:tid 1] AH01909: lvh.me:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 23 13:12:38.021127 2021] [lbmethod_heartbeat:notice] [pid 1:tid 1] AH02282: No slotmem from mod_heartmonitor
+[Tue Feb 23 13:12:38.024756 2021] [mpm_event:notice] [pid 1:tid 1] AH00489: Apache/2.4.46 (IUS) OpenSSL/1.0.2k-fips configured -- resuming normal operations
+[Tue Feb 23 13:12:38.024855 2021] [core:notice] [pid 1:tid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Tue Feb 23 16:27:12.099086 2021] [mpm_event:notice] [pid 1:tid 1] AH00491: caught SIGTERM, shutting down
+[Tue Feb 23 16:27:45.788313 2021] [ssl:warn] [pid 1:tid 1] AH01909: lvh.me:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 23 16:27:45.788979 2021] [suexec:notice] [pid 1:tid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.26.0.4. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 23 16:27:45.801166 2021] [ssl:warn] [pid 1:tid 1] AH01909: lvh.me:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 23 16:27:45.801563 2021] [lbmethod_heartbeat:notice] [pid 1:tid 1] AH02282: No slotmem from mod_heartmonitor
+[Tue Feb 23 16:27:45.803001 2021] [mpm_event:notice] [pid 1:tid 1] AH00489: Apache/2.4.46 (IUS) OpenSSL/1.0.2k-fips configured -- resuming normal operations
+[Tue Feb 23 16:27:45.803042 2021] [core:notice] [pid 1:tid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Tue Feb 23 16:29:36.767059 2021] [proxy_fcgi:error] [pid 9:tid 129] [client 172.26.0.1:52662] AH01071: Got error 'PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-('
+[Tue Feb 23 16:29:40.872410 2021] [proxy_fcgi:error] [pid 9:tid 132] [client 172.26.0.1:52662] AH01071: Got error 'PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-('
+[Tue Feb 23 16:38:06.358958 2021] [proxy_fcgi:error] [pid 8:tid 199] [client 172.26.0.1:52702] AH01071: Got error 'PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-('
+[Tue Feb 23 16:38:11.269775 2021] [proxy_fcgi:error] [pid 8:tid 202] [client 172.26.0.1:54592] AH01071: Got error 'PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-('
+[Wed Feb 24 21:19:11.034943 2021] [proxy_fcgi:error] [pid 8:tid 208] [client 172.26.0.1:54968] AH01071: Got error 'PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-('
+[Thu Feb 25 21:58:44.024939 2021] [proxy_fcgi:error] [pid 222:tid 264] [client 172.26.0.1:54984] AH01071: Got error 'PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-('
+[Thu Feb 25 21:59:44.265197 2021] [proxy_fcgi:error] [pid 222:tid 270] [client 172.26.0.1:55006] AH01071: Got error 'PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-('
+[Thu Feb 25 22:08:58.828468 2021] [mpm_event:notice] [pid 1:tid 1] AH00491: caught SIGTERM, shutting down
+[Thu Feb 25 22:09:12.902850 2021] [ssl:warn] [pid 1:tid 1] AH01909: lvh.me:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 25 22:09:12.904137 2021] [suexec:notice] [pid 1:tid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.27.0.8. Set the 'ServerName' directive globally to suppress this message
+[Thu Feb 25 22:09:12.930143 2021] [ssl:warn] [pid 1:tid 1] AH01909: lvh.me:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 25 22:09:12.931114 2021] [lbmethod_heartbeat:notice] [pid 1:tid 1] AH02282: No slotmem from mod_heartmonitor
+[Thu Feb 25 22:09:12.934426 2021] [mpm_event:notice] [pid 1:tid 1] AH00489: Apache/2.4.46 (IUS) OpenSSL/1.0.2k-fips configured -- resuming normal operations
+[Thu Feb 25 22:09:12.934496 2021] [core:notice] [pid 1:tid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu Feb 25 22:17:42.707543 2021] [mpm_event:notice] [pid 1:tid 1] AH00491: caught SIGTERM, shutting down
+[Thu Feb 25 22:17:52.883546 2021] [ssl:warn] [pid 1:tid 1] AH01909: lvh.me:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 25 22:17:52.884562 2021] [suexec:notice] [pid 1:tid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.28.0.4. Set the 'ServerName' directive globally to suppress this message
+[Thu Feb 25 22:17:52.910215 2021] [ssl:warn] [pid 1:tid 1] AH01909: lvh.me:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 25 22:17:52.911116 2021] [lbmethod_heartbeat:notice] [pid 1:tid 1] AH02282: No slotmem from mod_heartmonitor
+[Thu Feb 25 22:17:52.914741 2021] [mpm_event:notice] [pid 1:tid 1] AH00489: Apache/2.4.46 (IUS) OpenSSL/1.0.2k-fips configured -- resuming normal operations
+[Thu Feb 25 22:17:52.914835 2021] [core:notice] [pid 1:tid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu Feb 25 22:40:18.658693 2021] [proxy_fcgi:error] [pid 10:tid 129] [client 172.28.0.1:55310] AH01071: Got error 'PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-('
+[Thu Feb 25 22:40:22.047440 2021] [proxy_fcgi:error] [pid 9:tid 163] [client 172.28.0.1:46210] AH01071: Got error 'PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-('
+[Thu Feb 25 22:40:28.125562 2021] [proxy_fcgi:error] [pid 222:tid 262] [client 172.28.0.1:46234] AH01071: Got error 'PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-('
+[Thu Feb 25 22:40:51.262129 2021] [proxy_fcgi:error] [pid 222:tid 270] [client 172.28.0.1:46266] AH01071: Got error 'PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-('
+[Thu Feb 25 22:40:51.605646 2021] [proxy_fcgi:error] [pid 222:tid 272] [client 172.28.0.1:46266] AH01071: Got error 'PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-('
+[Thu Feb 25 23:06:33.155100 2021] [proxy_fcgi:error] [pid 222:tid 281] [client 172.28.0.1:46296] AH01071: Got error 'PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(', referer: https://project01.lvh.me/login
+[Thu Feb 25 23:06:37.176991 2021] [proxy_fcgi:error] [pid 222:tid 286] [client 172.28.0.1:46296] AH01071: Got error 'PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(', referer: https://project01.lvh.me/login
+[Thu Feb 25 23:06:53.043230 2021] [proxy_fcgi:error] [pid 222:tid 267] [client 172.28.0.1:46332] AH01071: Got error 'PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(', referer: https://project01.lvh.me/register
+[Thu Feb 25 23:06:53.342680 2021] [proxy_fcgi:error] [pid 222:tid 268] [client 172.28.0.1:46332] AH01071: Got error 'PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(', referer: https://project01.lvh.me/register
+[Thu Feb 25 23:07:10.647996 2021] [proxy_fcgi:error] [pid 222:tid 274] [client 172.28.0.1:46366] AH01071: Got error 'PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(', referer: https://project01.lvh.me/register
+[Thu Feb 25 23:07:10.972380 2021] [proxy_fcgi:error] [pid 222:tid 275] [client 172.28.0.1:46366] AH01071: Got error 'PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(', referer: https://project01.lvh.me/register
+[Thu Feb 25 23:09:15.480493 2021] [proxy_fcgi:error] [pid 222:tid 283] [client 172.28.0.1:46482] AH01071: Got error 'PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(', referer: https://project01.lvh.me/home
+[Thu Feb 25 23:09:18.612663 2021] [proxy_fcgi:error] [pid 222:tid 286] [client 172.28.0.1:46482] AH01071: Got error 'PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(', referer: https://project01.lvh.me/
+[Thu Feb 25 23:09:21.393267 2021] [proxy_fcgi:error] [pid 222:tid 265] [client 172.28.0.1:46482] AH01071: Got error 'PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(', referer: https://project01.lvh.me/home
+[Thu Feb 25 23:09:21.700840 2021] [proxy_fcgi:error] [pid 222:tid 266] [client 172.28.0.1:46482] AH01071: Got error 'PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(', referer: https://project01.lvh.me/home
+[Thu Feb 25 23:09:51.984737 2021] [mpm_event:notice] [pid 1:tid 1] AH00491: caught SIGTERM, shutting down
+[Sun Feb 28 08:45:37.952122 2021] [ssl:warn] [pid 1:tid 1] AH01909: lvh.me:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Feb 28 08:45:37.953280 2021] [suexec:notice] [pid 1:tid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.29.0.8. Set the 'ServerName' directive globally to suppress this message
+[Sun Feb 28 08:45:37.979155 2021] [ssl:warn] [pid 1:tid 1] AH01909: lvh.me:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Feb 28 08:45:37.979998 2021] [lbmethod_heartbeat:notice] [pid 1:tid 1] AH02282: No slotmem from mod_heartmonitor
+[Sun Feb 28 08:45:37.982762 2021] [mpm_event:notice] [pid 1:tid 1] AH00489: Apache/2.4.46 (IUS) OpenSSL/1.0.2k-fips configured -- resuming normal operations
+[Sun Feb 28 08:45:37.982830 2021] [core:notice] [pid 1:tid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sun Feb 28 08:46:14.305672 2021] [proxy_fcgi:error] [pid 11:tid 170] [client 172.29.0.1:51266] AH01071: Got error 'PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(', referer: https://project01.lvh.me/home
+[Sun Feb 28 08:46:16.610579 2021] [proxy_fcgi:error] [pid 223:tid 264] [client 172.29.0.1:51288] AH01071: Got error 'PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(', referer: https://project01.lvh.me/home
+[Sun Feb 28 08:46:39.327126 2021] [proxy_fcgi:error] [pid 11:tid 171] [client 172.29.0.1:51310] AH01071: Got error 'PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(', referer: https://project01.lvh.me/home
+[Sun Feb 28 09:59:09.110819 2021] [mpm_event:notice] [pid 1:tid 1] AH00491: caught SIGTERM, shutting down
+[Sun Feb 28 22:57:34.344910 2021] [ssl:warn] [pid 1:tid 1] AH01909: lvh.me:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Feb 28 22:57:34.346126 2021] [suexec:notice] [pid 1:tid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.31.0.8. Set the 'ServerName' directive globally to suppress this message
+[Sun Feb 28 22:57:34.374631 2021] [ssl:warn] [pid 1:tid 1] AH01909: lvh.me:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Feb 28 22:57:34.375845 2021] [lbmethod_heartbeat:notice] [pid 1:tid 1] AH02282: No slotmem from mod_heartmonitor
+[Sun Feb 28 22:57:34.379433 2021] [mpm_event:notice] [pid 1:tid 1] AH00489: Apache/2.4.46 (IUS) OpenSSL/1.0.2k-fips configured -- resuming normal operations
+[Sun Feb 28 22:57:34.379481 2021] [core:notice] [pid 1:tid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sun Feb 28 22:58:04.018832 2021] [mpm_event:notice] [pid 1:tid 1] AH00491: caught SIGTERM, shutting down
+[Sun Feb 28 23:18:38.552120 2021] [ssl:warn] [pid 1:tid 1] AH01909: lvh.me:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Feb 28 23:18:38.553209 2021] [suexec:notice] [pid 1:tid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.0.8. Set the 'ServerName' directive globally to suppress this message
+[Sun Feb 28 23:18:38.580533 2021] [ssl:warn] [pid 1:tid 1] AH01909: lvh.me:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Feb 28 23:18:38.581286 2021] [lbmethod_heartbeat:notice] [pid 1:tid 1] AH02282: No slotmem from mod_heartmonitor
+[Sun Feb 28 23:18:38.583692 2021] [mpm_event:notice] [pid 1:tid 1] AH00489: Apache/2.4.46 (IUS) OpenSSL/1.0.2k-fips configured -- resuming normal operations
+[Sun Feb 28 23:18:38.583721 2021] [core:notice] [pid 1:tid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sun Feb 28 23:18:51.174465 2021] [proxy_fcgi:error] [pid 10:tid 156] [client 192.168.0.1:56108] AH01071: Got error 'PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-('
+[Sun Feb 28 23:18:53.949550 2021] [proxy_fcgi:error] [pid 10:tid 160] [client 192.168.0.1:56108] AH01071: Got error 'PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(', referer: https://project01.lvh.me/
+[Sun Feb 28 23:19:29.893665 2021] [proxy_fcgi:error] [pid 10:tid 166] [client 192.168.0.1:56256] AH01071: Got error 'PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(', referer: https://project01.lvh.me/login
+[Mon Mar 01 19:19:26.881781 2021] [proxy_fcgi:error] [pid 222:tid 265] [client 192.168.0.1:56288] AH01071: Got error 'PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(', referer: https://project01.lvh.me/login
+[Mon Mar 01 23:58:28.755932 2021] [proxy_fcgi:error] [pid 10:tid 179] [client 192.168.0.1:55342] AH01071: Got error 'PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(PHP message: PHP Fatal error:  Uncaught Error: Call to undefined function csrf_field() in /var/www/html/todo01/public/index.php:14\nStack trace:\n#0 {main}\n  thrown in /var/www/html/todo01/public/index.php on line 14'
+[Wed Mar 03 21:03:18.208738 2021] [proxy_fcgi:error] [pid 222:tid 268] (70007)The timeout specified has expired: [client 192.168.0.1:55526] AH01075: Error dispatching request to : (polling)
+[Wed Mar 03 21:14:27.624633 2021] [ssl:warn] [pid 1:tid 1] AH01909: lvh.me:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 03 21:14:27.628878 2021] [suexec:notice] [pid 1:tid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.0.7. Set the 'ServerName' directive globally to suppress this message
+[Wed Mar 03 21:14:27.703235 2021] [ssl:warn] [pid 1:tid 1] AH01909: lvh.me:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 03 21:14:27.705982 2021] [lbmethod_heartbeat:notice] [pid 1:tid 1] AH02282: No slotmem from mod_heartmonitor
+[Wed Mar 03 21:14:27.709132 2021] [core:warn] [pid 1:tid 1] AH00098: pid file /run/httpd/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Mar 03 21:14:27.710622 2021] [cgid:error] [pid 8:tid 8] (98)Address already in use: AH01243: Couldn't bind unix domain socket /run/httpd/cgisock.1
+[Wed Mar 03 21:14:27.715928 2021] [mpm_event:notice] [pid 1:tid 1] AH00489: Apache/2.4.46 (IUS) OpenSSL/1.0.2k-fips configured -- resuming normal operations
+[Wed Mar 03 21:14:27.716000 2021] [core:notice] [pid 1:tid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Wed Mar 03 21:14:28.717406 2021] [cgid:crit] [pid 1:tid 1] AH01238: cgid daemon failed to initialize
+[Thu Mar 04 22:57:50.463458 2021] [ssl:warn] [pid 1:tid 1] AH01909: lvh.me:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 04 22:57:50.464914 2021] [suexec:notice] [pid 1:tid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.0.7. Set the 'ServerName' directive globally to suppress this message
+[Thu Mar 04 22:57:50.484988 2021] [ssl:warn] [pid 1:tid 1] AH01909: lvh.me:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 04 22:57:50.485953 2021] [lbmethod_heartbeat:notice] [pid 1:tid 1] AH02282: No slotmem from mod_heartmonitor
+[Thu Mar 04 22:57:50.486521 2021] [core:warn] [pid 1:tid 1] AH00098: pid file /run/httpd/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 04 22:57:50.487997 2021] [mpm_event:notice] [pid 1:tid 1] AH00489: Apache/2.4.46 (IUS) OpenSSL/1.0.2k-fips configured -- resuming normal operations
+[Thu Mar 04 22:57:50.488029 2021] [core:notice] [pid 1:tid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Mar 06 10:49:11.690485 2021] [ssl:warn] [pid 1:tid 1] AH01909: lvh.me:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 06 10:49:11.691520 2021] [suexec:notice] [pid 1:tid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sat Mar 06 10:49:11.870665 2021] [ssl:warn] [pid 1:tid 1] AH01909: lvh.me:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 06 10:49:11.871665 2021] [lbmethod_heartbeat:notice] [pid 1:tid 1] AH02282: No slotmem from mod_heartmonitor
+[Sat Mar 06 10:49:11.872519 2021] [core:warn] [pid 1:tid 1] AH00098: pid file /run/httpd/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Mar 06 10:49:11.872785 2021] [cgid:error] [pid 7:tid 7] (98)Address already in use: AH01243: Couldn't bind unix domain socket /run/httpd/cgisock.1
+[Sat Mar 06 10:49:11.874158 2021] [mpm_event:notice] [pid 1:tid 1] AH00489: Apache/2.4.46 (IUS) OpenSSL/1.0.2k-fips configured -- resuming normal operations
+[Sat Mar 06 10:49:11.874183 2021] [core:notice] [pid 1:tid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Mar 06 10:49:12.875386 2021] [cgid:crit] [pid 1:tid 1] AH01238: cgid daemon failed to initialize
+[Sat Mar 06 11:23:08.475723 2021] [ssl:warn] [pid 1:tid 1] AH01909: lvh.me:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 06 11:23:08.477054 2021] [suexec:notice] [pid 1:tid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.0.6. Set the 'ServerName' directive globally to suppress this message
+[Sat Mar 06 11:23:08.567710 2021] [ssl:warn] [pid 1:tid 1] AH01909: lvh.me:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 06 11:23:08.568367 2021] [lbmethod_heartbeat:notice] [pid 1:tid 1] AH02282: No slotmem from mod_heartmonitor
+[Sat Mar 06 11:23:08.568774 2021] [core:warn] [pid 1:tid 1] AH00098: pid file /run/httpd/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Mar 06 11:23:08.569918 2021] [mpm_event:notice] [pid 1:tid 1] AH00489: Apache/2.4.46 (IUS) OpenSSL/1.0.2k-fips configured -- resuming normal operations
+[Sat Mar 06 11:23:08.569935 2021] [core:notice] [pid 1:tid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Mar 06 13:22:41.240312 2021] [ssl:warn] [pid 1:tid 1] AH01909: lvh.me:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 06 13:22:41.241453 2021] [suexec:notice] [pid 1:tid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.0.7. Set the 'ServerName' directive globally to suppress this message
+[Sat Mar 06 13:22:41.254479 2021] [ssl:warn] [pid 1:tid 1] AH01909: lvh.me:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 06 13:22:41.255126 2021] [lbmethod_heartbeat:notice] [pid 1:tid 1] AH02282: No slotmem from mod_heartmonitor
+[Sat Mar 06 13:22:41.255516 2021] [core:warn] [pid 1:tid 1] AH00098: pid file /run/httpd/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Mar 06 13:22:41.255737 2021] [cgid:error] [pid 8:tid 8] (98)Address already in use: AH01243: Couldn't bind unix domain socket /run/httpd/cgisock.1
+[Sat Mar 06 13:22:41.256807 2021] [mpm_event:notice] [pid 1:tid 1] AH00489: Apache/2.4.46 (IUS) OpenSSL/1.0.2k-fips configured -- resuming normal operations
+[Sat Mar 06 13:22:41.256828 2021] [core:notice] [pid 1:tid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Mar 06 13:22:42.257013 2021] [cgid:crit] [pid 1:tid 1] AH01238: cgid daemon failed to initialize
+[Sat Mar 06 19:24:48.176432 2021] [proxy_fcgi:error] [pid 223:tid 265] [client 192.168.0.1:48226] AH01071: Got error 'PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(PHP message: PHP Fatal error:  Uncaught Error: Call to undefined function csrf_field() in /var/www/html/todo01/public/index.php:14\nStack trace:\n#0 {main}\n  thrown in /var/www/html/todo01/public/index.php on line 14'
+[Sat Mar 06 19:46:29.955885 2021] [proxy_fcgi:error] [pid 223:tid 269] [client 192.168.0.1:48244] AH01071: Got error 'PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(PHP message: PHP Fatal error:  Uncaught Error: Call to undefined function csrf_field() in /var/www/html/todo01/public/index.php:14\nStack trace:\n#0 {main}\n  thrown in /var/www/html/todo01/public/index.php on line 14'
