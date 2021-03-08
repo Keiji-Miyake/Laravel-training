@@ -1,4 +1,4 @@
-FROM centos:7 
+FROM centos:7
 RUN yum update -y && \
     yum -y remove httpd httpd.x86_64 httpd-tools.x86_64
 
@@ -8,8 +8,10 @@ RUN yum install -y epel-release && \
     yum -y install https://repo.ius.io/ius-release-el7.rpm && \
     sed -i -e "s/enabled *= *1/enabled=0/g" /etc/yum.repos.d/ius.repo && \
     yum -y --enablerepo=epel install nghttp2 brotli && \
-    yum -y install mailcap system-logos $$ \
-    yum -y install openssl && \
+    yum -y install \
+        mailcap \
+        system-logos \
+        openssl && \
     yum -y --disablerepo=base,extras,updates --enablerepo=ius install httpd mod_ssl && \
     yum clean all && \
 # マルチプロセッシングモジュールを『prefork MPM』から『event MPM』に変更
